@@ -1,0 +1,23 @@
+{
+  "name": "pagelove-marketplace",
+  "owner": {
+    "name": "Pagelove Ltd",
+    "email": "hello@pagelove.team"
+  },
+  "metadata": {
+    "description": "Tools for creating Pagelove apps",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pagelove",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/pagelove/pagelove-plugin.git"
+      },
+      "description": "Creates Pagelove apps",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
