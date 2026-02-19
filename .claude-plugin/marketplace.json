@@ -10,13 +10,13 @@
   },
   "plugins": [
     {
-      "name": "pagelove",
+      "name": "pagelove-dev",
       "source": {
         "source": "url",
-        "url": "https://github.com/pagelove/pagelove-plugin.git"
+        "url": "https://github.com/pagelove/pagelove-dev.git"
       },
       "description": "Creates Pagelove apps",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "strict": true
     }
   ]
