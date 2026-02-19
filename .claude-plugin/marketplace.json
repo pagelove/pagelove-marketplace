@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Tools for creating Pagelove apps",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
@@ -15,7 +15,7 @@
         "source": "url",
         "url": "https://github.com/pagelove/pagelove-dev.git"
       },
-      "description": "Creates Pagelove apps",
+      "description": "Create Pagelove apps",
       "version": "0.1.1",
       "strict": true
     }
